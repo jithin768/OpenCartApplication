@@ -1,30 +1,17 @@
-2024-09-25 22:38:32 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
-2024-09-25 22:41:27 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
-2024-09-25 22:43:46 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
-2024-09-25 22:43:54 INFO  TC001_AccountRegistrationTest:15 -  *** Starting Test case TC001_AccountRegistrationTest *** 
-2024-09-25 22:43:55 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAcountLink
-2024-09-25 22:43:55 INFO  TC001_AccountRegistrationTest:23 - Clicked on RegisterLink
-2024-09-25 22:43:55 INFO  TC001_AccountRegistrationTest:28 -  Entering Customer informations 
-2024-09-25 22:43:58 INFO  TC001_AccountRegistrationTest:42 -  Validating Confirmation Message
-2024-09-25 22:43:58 INFO  TC001_AccountRegistrationTest:54 -  *** Finished TC001_AccountRegistrationTest *** 
-2024-09-25 22:45:23 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
-2024-09-25 22:45:29 INFO  TC001_AccountRegistrationTest:15 -  *** Starting Test case TC001_AccountRegistrationTest *** 
-2024-09-25 22:45:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAcountLink
-2024-09-25 22:45:31 INFO  TC001_AccountRegistrationTest:23 - Clicked on RegisterLink
-2024-09-25 22:45:31 INFO  TC001_AccountRegistrationTest:28 -  Entering Customer informations 
-2024-09-25 22:45:34 INFO  TC001_AccountRegistrationTest:42 -  Validating Confirmation Message
-2024-09-25 22:45:34 INFO  TC001_AccountRegistrationTest:54 -  *** Finished TC001_AccountRegistrationTest *** 
-2024-09-25 22:55:01 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
-2024-09-25 22:55:09 INFO  TC001_AccountRegistrationTest:15 -  *** Starting Test case TC001_AccountRegistrationTest *** 
-2024-09-25 22:55:09 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAcountLink
-2024-09-25 22:55:10 INFO  TC001_AccountRegistrationTest:23 - Clicked on RegisterLink
-2024-09-25 22:55:10 INFO  TC001_AccountRegistrationTest:28 -  Entering Customer informations 
-2024-09-25 22:55:13 INFO  TC001_AccountRegistrationTest:42 -  Validating Confirmation Message
-2024-09-25 22:55:13 INFO  TC001_AccountRegistrationTest:54 -  *** Finished TC001_AccountRegistrationTest *** 
-2024-09-25 23:03:48 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
-2024-09-25 23:03:55 INFO  TC001_AccountRegistrationTest:15 -  *** Starting Test case TC001_AccountRegistrationTest *** 
-2024-09-25 23:03:56 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAcountLink
-2024-09-25 23:03:57 INFO  TC001_AccountRegistrationTest:23 - Clicked on RegisterLink
-2024-09-25 23:03:57 INFO  TC001_AccountRegistrationTest:28 -  Entering Customer informations 
-2024-09-25 23:04:00 INFO  TC001_AccountRegistrationTest:42 -  Validating Confirmation Message
-2024-09-25 23:04:00 INFO  TC001_AccountRegistrationTest:54 -  *** Finished TC001_AccountRegistrationTest *** 
+2024-09-28 00:50:55 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-28 00:50:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml
+
+2024-09-28 00:51:05 INFO  TC001_AccountRegistrationTest:15 -  *** Starting Test case TC001_AccountRegistrationTest *** 
+2024-09-28 00:51:06 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAcountLink
+2024-09-28 00:51:07 INFO  TC001_AccountRegistrationTest:23 - Clicked on RegisterLink
+2024-09-28 00:51:07 INFO  TC001_AccountRegistrationTest:28 -  Entering Customer informations 
+2024-09-28 00:51:10 INFO  TC001_AccountRegistrationTest:42 -  Validating Confirmation Message
+2024-09-28 00:51:10 INFO  TC001_AccountRegistrationTest:54 -  *** Finished TC001_AccountRegistrationTest *** 
+2024-09-28 00:56:12 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\16472\eclipse-workspace\Cucumber\Selenium_HybridAutomation\TestProject121\master.xml] otherwise TestNG may fail or not work as expected.
+2024-09-28 00:56:18 INFO  TC001_AccountRegistrationTest:15 -  *** Starting Test case TC001_AccountRegistrationTest *** 
+2024-09-28 00:56:20 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAcountLink
+2024-09-28 00:56:21 INFO  TC001_AccountRegistrationTest:23 - Clicked on RegisterLink
+2024-09-28 00:56:21 INFO  TC001_AccountRegistrationTest:28 -  Entering Customer informations 
+2024-09-28 00:56:23 INFO  TC001_AccountRegistrationTest:42 -  Validating Confirmation Message
+2024-09-28 00:56:24 INFO  TC001_AccountRegistrationTest:54 -  *** Finished TC001_AccountRegistrationTest *** 
